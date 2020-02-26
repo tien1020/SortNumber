@@ -5,6 +5,7 @@ Here is the out put:
  Enter a number: 10
  Enter a number: 3
  Enter a number: 17
+ ---
  3 10 17
  
 
